@@ -13,16 +13,13 @@
 - 📍 **Location:** Phnom Penh, Cambodia 🇰🇭  
 - 🎓 **Background:** Computer Science Student at **Royal University of Phnom Penh**  
 - 💡 **Core Focus:** Building high-performance **full-stack applications**  
-- 🚀 **Specialization:** Scalable solutions using the **JavaScript ecosystem** and modern cloud platforms  
 
 ---
 
 ## 🛠️ Toolkit
 
-I specialize in the **JavaScript ecosystem**, using one language across frontend, backend, databases, tooling, and deployment to deliver seamless user experiences.
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,express,nestjs,docker,github,postgresql" />
+  <img src="https://skillicons.dev/icons?i=vscode,js,ts,react,nextjs,astro,express,nestjs,tailwind,docker,git,github,postgresql" />
 </div>
 
 ---
