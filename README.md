@@ -19,7 +19,7 @@
 ## 🛠️ Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,js,ts,react,nextjs,astro,express,nestjs,tailwind,docker,git,github,postgresql" />
+  <img src="https://skillicons.dev/icons?i=vscode,js,ts,react,nextjs,astro,express,nestjs,tailwind,docker,git,github,prisma,postgresql,mysql" />
 </div>
 
 ---
