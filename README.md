@@ -24,6 +24,14 @@
 
 ---
 
+<div align="center">
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chungsiangroeurn&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chungsiangroeurn&theme=transparent" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chungsiangroeurn&theme=transparent&exclude=java,rust,jupyter%20Notebook" />
+</div>
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
